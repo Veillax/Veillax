@@ -14,7 +14,17 @@ I'm learning Python, HTML, and CSS right now, but I'm not really great at it. I'
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,js,blender,atom,visualstudio,vscode)](https://github.com/veillax1354/#)
+
+[![Python](https://skills.thijs.gg/icons?i=py)](https://www,python.org)
+[![C#](https://skills.thijs.gg/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Kotlin](https://skills.thijs.gg/icons?i=kotlin)](https://kotlinlang.org/)
+
+[![Visual Studio](https://skills.thijs.gg/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![VS Code](https://skills.thijs.gg/icons?i=vscode)](https://code.visualstudio.com/)
+[![Jetbrains Idea](https://skills.thijs.gg/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![Android Studio](https://skills.thijs.gg/icons?i=androidstudio)](https://developer.android.com/studio)
+
+[![Blender](https://skills.thijs.gg/icons?i=blender)](https://www.blender.org/)
 
 ---
 
