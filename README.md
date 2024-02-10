@@ -8,7 +8,7 @@ I'm learning Python, HTML, and CSS right now, but I'm not really great at it. I'
 ### :keyboard: Current Projects:
 
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax135&repo=veillax135.github.io&theme=tokyonight)](https://github.com/veillax135/veillax135.github.io)
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax1354&repo=Canvas-Spreadsheet-Integration&theme=tokyonight)]([https://github.com/veillax135/veillax135.github.io](https://github.com/veillax1354/Canvas-Spreadsheet-Integration))  
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax1354&repo=Canvas-Spreadsheet-Integration&theme=tokyonight)](https://github.com/veillax1354/Canvas-Spreadsheet-Integration)  
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax&repo=veillax.github.io&theme=tokyonight)](https://github.com/veillax/veillax.github.io)  
 
 ---
