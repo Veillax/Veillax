@@ -8,7 +8,7 @@ I'm a Python Dev who makes his own tools for everything
 
 ### :keyboard: Current Projects:
 
-[![Artifacts MMO Wrapper](https://github-readme-stats.vercel.app/api/pin/?username=veillax&repo=Artifacts-MMO-Wrapper&theme=tokyonight)](https://github.com/veillax/Artifacts-MMO-Wrapper)
+[![Artifacts MMO Wrapper](https://github-readme-stats.vercel.app/api/pin/?username=veillax&repo=ArtifactsMMO-Wrapper&theme=tokyonight)](https://github.com/veillax/ArtifactsMMO-Wrapper)
 
 ---
 
