@@ -1,15 +1,6 @@
 ## Hi! I'm Veillax!
 I'm a Python Dev who makes his own tools for everything
 
-My name is pronounced like this:  
-`ˈviːɪlæks`
-
-`ˈ` - indicates stress on the first syllable  
-`vi`ː - long "ee" sound, like in "meet" or "seen"  
-`ɪ` - i sound like in "ill"  
-`læ` - same as "la" in "relax", a combination of 'l' and 'a' sounds  
-`ks` - same as "x" in "relax", a combination of "k" and "s" sounds  
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax&layout=compact&theme=tokyonight)](https://github.com/veillax/#)
 
@@ -17,20 +8,7 @@ My name is pronounced like this:
 
 ### :keyboard: Current Projects:
 
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax135&repo=veillax135.github.io&theme=tokyonight)](https://github.com/veillax135/veillax135.github.io)
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax1354&repo=Canvas-Spreadsheet-Integration&theme=tokyonight)](https://github.com/veillax1354/Canvas-Spreadsheet-Integration)  
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax&repo=veillax.github.io&theme=tokyonight)](https://github.com/veillax/veillax.github.io)  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax&layout=compact&theme=tokyonight)](https://github.com/veillax/#)
-
----
-
-### :keyboard: Current Projects:
-
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax135&repo=veillax135.github.io&theme=tokyonight)](https://github.com/veillax135/veillax135.github.io)
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax1354&repo=Canvas-Spreadsheet-Integration&theme=tokyonight)](https://github.com/veillax1354/Canvas-Spreadsheet-Integration)  
-[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax&repo=veillax.github.io&theme=tokyonight)](https://github.com/veillax/veillax.github.io)  
+[![Artifacts MMO Wrapper](https://github-readme-stats.vercel.app/api/pin/?username=veillax&repo=Artifacts-MMO-Wrapper&theme=tokyonight)](https://github.com/veillax/Artifacts-MMO-Wrapper)
 
 ---
 
@@ -52,8 +30,7 @@ My name is pronounced like this:
 
 ### :fire: Github Stats:
 
-[![Veillax's Github Stats](https://github-readme-stats.vercel.app/api?username=veillax1354&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/veillax1354/#)
-[![Veillax's Github Stats 2](http://github-readme-streak-stats.herokuapp.com?user=veillax1354&theme=dark&background=000000)](https://github.com/veillax1354/#)
+[![Veillax's Github Stats](http://github-readme-streak-stats.herokuapp.com?user=veillax1354&theme=dark&background=000000)](https://github.com/veillax1354/#)
 
 ---
 
