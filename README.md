@@ -34,14 +34,4 @@ I'm a Python Dev who makes his own tools for everything
 
 ---
 
-### :star2: Commit History
-
-[![Snake animation](https://github.com/veillax1354/veillax1354/blob/output/github-contribution-grid-snake.svg)](https://github.com/veillax1354?tab=overview&from=2022-11-01&to=2022-11-15)
-
----
-
-### :eyes: Profile Views:
-
-![Visitor Count](https://profile-counter.glitch.me/veillax1354/count.svg)
-
 
